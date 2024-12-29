@@ -1,0 +1,20 @@
+h2{
+    margin-bottom: 2rem;
+}
+body{
+    margin-left: 3rem;
+}
+input{
+    margin-bottom: 2rem;
+    transition-duration: 2s;
+    transition-property: all;
+}
+button{
+    width: 5rem;
+    height: 2rem;
+    background-color: gold;
+    border: 0.1rem black solid;
+}
+button:hover{
+    background-color: white;
+}
